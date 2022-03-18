@@ -6,4 +6,6 @@ public class Git3 {
     //git add . tamamini eklememizi sagliyor
 
     //commit sonrasi git 3 degisti
+    
+    //bu satir Githup ta degistirildi
 }
